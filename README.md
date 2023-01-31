@@ -12,3 +12,5 @@ All documentation can be found within [Sean Gray's](https://github.com/seangray-
 - [without](https://github.com/seangray-dev/lighthouse-web-notes/blob/master/Module_1/Week_1/lotide/without.md)
 - [flatten](https://github.com/seangray-dev/lighthouse-web-notes/blob/master/Module_1/Week_1/lotide/flatten.md)
 - [middle](https://github.com/seangray-dev/lighthouse-web-notes/blob/master/Module_1/Week_1/lotide/middle.md)
+- [countOnly](https://github.com/seangray-dev/lighthouse-web-notes/blob/master/Module_1/Week_2/countOnly.md)
+- [countLetters](https://github.com/seangray-dev/lighthouse-web-notes/blob/master/Module_1/Week_2/countLetters.md)
