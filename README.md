@@ -1,6 +1,6 @@
 # Lotide Helper Functions
 
-All documentation can be found within [Sean Gray's](https://github.com/seangray-dev) lighthouse-web-notes [repository](https://github.com/seangray-dev/lighthouse-web-notes/blob/81483b0c5fb0bac3788a39e4aebd1a802d964709/Module_1/Week_1/lotide/).
+All documentation can be found within [Sean Gray's](https://github.com/seangray-dev) lighthouse-web-notes [repository](https://github.com/seangray-dev/lighthouse-web-notes).
 
 ## Links to Explanations
 
