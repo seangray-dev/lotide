@@ -1,0 +1,26 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "All documentation can be found within [Sean Gray's](https://github.com/seangray-dev) lighthouse-web-notes [repository](https://github.com/seangray-dev/lighthouse-web-notes).",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seangray-dev/lotide.git"
+  },
+  "author": "Sean Gray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seangray-dev/lotide/issues"
+  },
+  "homepage": "https://github.com/seangray-dev/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^9.2.2"
+  }
+}
