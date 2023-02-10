@@ -1,8 +1,6 @@
 const middle = require("../middle");
 const assert = require("chai").assert;
 
-// console.log(assertArraysEqual(middle([1, 2, 3]), middle([1, 2, 3])));
-
 describe("#middle", () => {
   it("returns an empty array for [1]", () => {
     assert.deepEqual(middle([1]), []);
