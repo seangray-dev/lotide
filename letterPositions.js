@@ -1,11 +1,14 @@
 const letterPositions = function (sentence) {
   const results = {};
   for (let i = 0; i < sentence.length; i++) {
-    if (!sentence[i].includes(" ")) {
-      if (results[sentence[i]]) {
-        results[sentence[i]].push(i);
+    const char = sentence[i];
+    // match unicode letters
+    if (/\p{L}/u.test(char)) {
+      const letter = char.toLowerCase();
+      if (results[letter]) {
+        results[letter].push(i);
       } else {
-        results[sentence[i]] = [i];
+        results[letter] = [i];
       }
     }
   }
